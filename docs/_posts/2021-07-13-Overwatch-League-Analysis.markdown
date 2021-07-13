@@ -2,6 +2,7 @@
 layout: post
 title:  "Overwatch League Analysis"
 date:   2021-07-13
+categories: Video Game Coding
 ---
   The Overwatch League began in 2016 with the intent of formatting the competition in a way similar to traditional sports. This revolutionary concept generates millions of dollars a year for each of its 20 teams through its viewership and merchandise sales, but even more can be won for placing in the playoffs. Since its inaugural season in 2018, plenty of statistics have been recorded for each and every match that has taken place. To determine what can be done to maximise a team&#39;s chances of winning each season, data analysis was performed using Python in addition to the packages pandas and scikit-learn.
 
