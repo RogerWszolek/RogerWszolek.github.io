@@ -273,6 +273,7 @@ DEPENDENCIES
   garth-jekyll-theme
   github-pages
   jekyll-feed
+  jekyll-remote-theme
   tzinfo
   tzinfo-data
   wdm

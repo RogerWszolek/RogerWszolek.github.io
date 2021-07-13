@@ -29,9 +29,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  RogerWszolek
 
 # Build settings
-remote_theme: garth-jekyll-theme
+remote_theme: daviddarnes/garth
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
