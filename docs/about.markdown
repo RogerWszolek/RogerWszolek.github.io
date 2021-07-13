@@ -8,5 +8,8 @@ permalink: /about/
 
 Hello! I am Roger who is an aspiring Nuclear Engineer.
 
+----------
+
 Contact me at: rwszolek3@gmail.com
+
 or find me at my github under the username: RogerWszolek
