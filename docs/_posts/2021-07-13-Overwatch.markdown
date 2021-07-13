@@ -70,12 +70,12 @@ For DPS and Support heroes, Weapon Accuracy does not appear to have an effect on
 
 **Graph 5. Eliminations vs Weapon Accuracy**
 
-<img src="https://user-images.githubusercontent.com/84683814/125509594-402b7987-e88b-4f85-9088-2bebf0fcccf2.png" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/84683814/125509594-402b7987-e88b-4f85-9088-2bebf0fcccf2.png" alt="drawing" width="400"/>
 
 This graph is very similar to Graph 4 with the same conclusions. DPS and Support have almost no correlation while Tank has an obvious positive correlation between Weapon Accuracy and Eliminations. Just as before, the idea that weapon accuracy is most important for Tank when it comes to damaging, and in turn eliminating, players on the other team.
 
 **Graph 6. All Damage Done vs Eliminations**
 
-<img src="https://user-images.githubusercontent.com/84683814/125510315-7744e57d-6e28-4c62-a230-626e037cc1bf.png" alt="drawing" width="300"/>
+<img src="https://user-images.githubusercontent.com/84683814/125510315-7744e57d-6e28-4c62-a230-626e037cc1bf.png" alt="drawing" width="400"/>
 
 In this graph, it is depicted that for all heroes, damage and eliminations are positively correlated which is sensible, as damage is necessary to eliminate an opponent. If anything, the lack of variation is the most striking feature, because all three roles have almost identical best fit lines.
