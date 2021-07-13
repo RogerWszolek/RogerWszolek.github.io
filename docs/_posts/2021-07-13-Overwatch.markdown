@@ -26,7 +26,7 @@ This table of maps brings to light some interesting details. For one, Lijiang To
 
 **Graph 1. Hitscan + Hanzo Damage Capability per Map**
 
-<img src="https://user-images.githubusercontent.com/84683814/125510155-12747a53-b4a2-4a34-a814-680e9bd62672.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/84683814/125510155-12747a53-b4a2-4a34-a814-680e9bd62672.png" alt="drawing" width="700"/>
 
 Some information is clearer to see in the graph than in the table. For one, the graph shows that, although Ashe does more damage on average, Hanzo is better at certain maps including Busan, Horizon Lunar Colony, Junkertown, and Paris. Although Widowmaker is always the lowest, McCree is actually better than Hanzo on Watchpoint: Gibraltar.
 
@@ -46,36 +46,36 @@ Ashe&#39;s total damage done per second is over double her primary weapon&#39;s 
 
 **Table 3. Average Heals per Map: Top 6**
 
-<img src="https://cdn.discordapp.com/attachments/693943373387661432/864580768159891466/unknown.png" alt="drawing" width="500"/>
+<img src="https://cdn.discordapp.com/attachments/693943373387661432/864580768159891466/unknown.png" alt="drawing" width="700"/>
 
 As it stands, this table shows a clear order in how much healing each support can output per second. Moira&#39;s massive healing that could hit the entire team when grouped up in addition to her self-healing capability puts her in the number one spot, while Lúcio&#39;s healing is less than optimal due to most players focusing on using his speed boost the majority of the time and only being able to heal short distances. Interestingly enough, Just as we noticed that Lijiang Tower was in the top of the hitscan heroes list of maps, the map is number one for most healing per second for most supports. This suggests that there may be more battles that take place in Lijiang Tower than in other maps due to its small size. Healers can only do so much, however, so a lot of damage needs to be blocked by tanks. The question of which tank has the greatest potential of blocking damage is answered with Table 4.
 
 **Table 4. Average Damage Blocked per Map: Top 6**
 
-<img src="https://user-images.githubusercontent.com/84683814/125509852-e07071b8-6320-41fd-a18b-154ba8ccc5d0.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/84683814/125509852-e07071b8-6320-41fd-a18b-154ba8ccc5d0.png" alt="drawing" width="700"/>
 
 The main shield tanks are sensibly have the highest blocking per second, but out of all of the tanks that have the ability to block damage, Orisa is on top of the damage blocked per second leaderboard. One interesting fact that presents itself is that all six of Orisa&#39;s best maps for blocking damage are payload maps. One might expect the opposite to be the case, as orisa is the least mobile shield tank. Instead, capture point maps are apparently better for tanks that have moveable shields. Another tidbit that is worth noting is that King&#39;s Row is in every tank&#39;s top 6. This makes sense as the narrow passageways make it easy to place the shield in front of oncoming damage. While damage, healing, and blocking are key parts of winning a match, ultimates can turn the tide of any battle. To investigate which ultimates result in the most kills, an analysis was performed in Table 5.
 
 **Table 5. Average Kills Resulting from Ultimate per 9 Most Played Maps: Top 6**
 
-<img src="https://user-images.githubusercontent.com/84683814/125509688-d12ef458-9ee0-4f62-8566-302432a1d48b.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/84683814/125509688-d12ef458-9ee0-4f62-8566-302432a1d48b.png" alt="drawing" width="700"/>
 
 Addressing the elephant in the room, or in this case the robot centaur, Orisa dominates the list in every map except Volskaya Industries which is only because the only time ever that a Bastion was played on that map, he ulted once and got 3 kills. Although technically Orisa isn&#39;t directly getting all of the kills from her ult, it&#39;s surprising that, on average, Orisa&#39;s Supercharger will result in about 3 kills from her team. Aside from that, the rest of the table makes sense as DPS heroes such as Genji, Reaper, and Pharah can dive in and consistently get at least one kill. While this table gives very interesting data, it is worth noting that Brigitte, Zenyatta, Lúcio, Sombra, Symmetra, and Widowmaker were not included in this leaderboard since the data provided by overwatch league does not count their ultimates as assisting kills. Since kills and damage are key to achieving victory, one final analysis was composed to see how weapon accuracy affects these variables as shown in Graphs 4, 5, and 6.
 
 **Graph 4. All Damage Done vs Weapon Accuracy**
 
-<img src="https://user-images.githubusercontent.com/84683814/125509633-f65ed393-311d-4793-a91b-f3a2b8e9fbe5.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/84683814/125509633-f65ed393-311d-4793-a91b-f3a2b8e9fbe5.png" alt="drawing" width="900"/>
 
 For DPS and Support heroes, Weapon Accuracy does not appear to have an effect on the amount of damage done. However, the graph for Tanks has a clear positive correlation. Interestingly, Tanks seem to be the only type of hero where high accuracy is important.
 
 **Graph 5. Eliminations vs Weapon Accuracy**
 
-<img src="https://user-images.githubusercontent.com/84683814/125509594-402b7987-e88b-4f85-9088-2bebf0fcccf2.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/84683814/125509594-402b7987-e88b-4f85-9088-2bebf0fcccf2.png" alt="drawing" width="300"/>
 
 This graph is very similar to Graph 4 with the same conclusions. DPS and Support have almost no correlation while Tank has an obvious positive correlation between Weapon Accuracy and Eliminations. Just as before, the idea that weapon accuracy is most important for Tank when it comes to damaging, and in turn eliminating, players on the other team.
 
 **Graph 6. All Damage Done vs Eliminations**
 
-<img src="https://user-images.githubusercontent.com/84683814/125510315-7744e57d-6e28-4c62-a230-626e037cc1bf.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/84683814/125510315-7744e57d-6e28-4c62-a230-626e037cc1bf.png" alt="drawing" width="300"/>
 
 In this graph, it is depicted that for all heroes, damage and eliminations are positively correlated which is sensible, as damage is necessary to eliminate an opponent. If anything, the lack of variation is the most striking feature, because all three roles have almost identical best fit lines.
