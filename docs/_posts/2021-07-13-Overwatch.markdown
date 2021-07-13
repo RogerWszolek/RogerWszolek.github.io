@@ -4,22 +4,19 @@ title:  "Overwatch"
 date:   2021-07-13
 categories: jekyll update
 ---
+  The Overwatch League began in 2016 with the intent of formatting the competition in a way similar to traditional sports. This revolutionary concept generates millions of dollars a year for each of its 20 teams through its viewership and merchandise sales, but even more can be won for placing in the playoffs. Since its inaugural season in 2018, plenty of statistics have been recorded for each and every match that has taken place. To determine what can be done to maximise a team&#39;s chances of winning each season, data analysis was performed using Python in addition to the packages pandas and scikit-learn.
 
-Introduction
-
-The Overwatch League began in 2016 with the intent of formatting the competition in a way similar to traditional sports. This revolutionary concept generates millions of dollars a year for each of its 20 teams through its viewership and merchandise sales, but even more can be won for placing in the playoffs. Since its inaugural season in 2018, plenty of statistics have been recorded for each and every match that has taken place. To determine what can be done to maximise a team&#39;s chances of winning each season, data analysis was performed using Python in addition to the packages pandas and scikit-learn.
-
-So what can we do to determine the most efficient way of winning? There are plenty of factors we can look into such as the entire team&#39;s damage per second, or maybe how much healing is distributed from the supports,or possibly even the number of ultimates the DPS heroes use. These factors may also be biased towards certain maps that are chosen during the match. The main issue with this form of analysis is that we can see how the players position themselves in-game. There may be certain factors such as if the team plays on or off of the point that could determine the outcome of the match. In addition, there is no way to guarantee a win. Skill is necessary as a good team will almost always dominate a bad team regardless of strategy.
+  So what can we do to determine the most efficient way of winning? There are plenty of factors we can look into such as the entire team&#39;s damage per second, or maybe how much healing is distributed from the supports,or possibly even the number of ultimates the DPS heroes use. These factors may also be biased towards certain maps that are chosen during the match. The main issue with this form of analysis is that we can see how the players position themselves in-game. There may be certain factors such as if the team plays on or off of the point that could determine the outcome of the match. In addition, there is no way to guarantee a win. Skill is necessary as a good team will almost always dominate a bad team regardless of strategy.
 
 Analysis
 
-Hitscan heroes are a necessity in Overwatch League, as their pinpoint accuracy allows skilled players to deal immense amounts of damage from afar. DPS heroes with hitscan weapons that instantly hit where the player is aiming when the weapon is fired include Widowmaker, McCree, and Ashe. The average damage per second for each of these heroes along with the commonly included sniper, Hanzo, was calculated to determine which hero might be the best choice in a match. The calculations were compiled into Table 1.
+  Hitscan heroes are a necessity in Overwatch League, as their pinpoint accuracy allows skilled players to deal immense amounts of damage from afar. DPS heroes with hitscan weapons that instantly hit where the player is aiming when the weapon is fired include Widowmaker, McCree, and Ashe. The average damage per second for each of these heroes along with the commonly included sniper, Hanzo, was calculated to determine which hero might be the best choice in a match. The calculations were compiled into Table 1.
 
 **Table 1. Hitscan + Hanzo Total Average Damage Capability**
 
-| **Hero** | Widowmaker | McCree | Ashe | Hanzo |
+| **Hero** | Widowmaker |   McCree   |    Ashe    |   Hanzo    |
 | --- | --- | --- | --- | --- |
-| **Damage**** per Second (DPS)** | 14.56 | 22.34 | 26.66 | 24.53 |
+| **Damage per Second (DPS)** | 14.56 | 22.34 | 26.66 | 24.53 |
 
 Ashe is shown in the table to have the highest damage per second, suggesting that she deals more damage than other hitscan heroes. This can be due to a variety of factors. One being her dynamite that deals lots of damage very easily across many enemies with each use, and her ultimate does large amounts of damage as well. McCree and Hanzo also have high damaging ults, but the damage isn&#39;t as consistent as Ashe&#39;s Bob ultimate, and both McCree&#39;s Deadeye and Hanzo&#39;s Dragonstrike are sometimes used for zoning or keeping enemies away from an area, so often no damage is done with their ults. In addition, Widowmaker&#39;s ultimate never does any damage which may explain why her dps isn&#39;t nearly as high as other hitscan heroes. However, it&#39;s important to take into account that Widowmaker is the most efficient at instakilling high value targets with a swift headshot, making her invaluable to certain team compositions. To investigate this topic further, DPS per hero per map was analyzed in Table 2.
 
