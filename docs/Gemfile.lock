@@ -42,6 +42,9 @@ GEM
     faraday-patron (1.0.0)
     ffi (1.15.3-x64-mingw32)
     forwardable-extended (2.6.0)
+    garth-jekyll-theme (1.0.5)
+      jekyll (>= 3.6, < 5.0)
+      jekyll-paginate (~> 1.1)
     gemoji (3.0.1)
     github-pages (215)
       github-pages-health-check (= 1.17.2)
@@ -267,9 +270,9 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  garth-jekyll-theme
   github-pages
   jekyll-feed
-  minima
   tzinfo
   tzinfo-data
   wdm
