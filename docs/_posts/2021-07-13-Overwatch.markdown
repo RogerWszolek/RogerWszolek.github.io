@@ -14,21 +14,23 @@ Analysis
 
 **Table 1. Hitscan + Hanzo Total Average Damage Capability**
 
+![](https://cdn.discordapp.com/attachments/693943373387661432/864578014707974155/unknown.png)
+
 | **Hero** | Widowmaker |   McCree   |    Ashe    |   Hanzo    |
-| --- | --- | --- | --- | --- |
+| :--- | :---: | :---: | :---: | :---: |
 | **Damage per Second (DPS)** | 14.56 | 22.34 | 26.66 | 24.53 |
 
 Ashe is shown in the table to have the highest damage per second, suggesting that she deals more damage than other hitscan heroes. This can be due to a variety of factors. One being her dynamite that deals lots of damage very easily across many enemies with each use, and her ultimate does large amounts of damage as well. McCree and Hanzo also have high damaging ults, but the damage isn&#39;t as consistent as Ashe&#39;s Bob ultimate, and both McCree&#39;s Deadeye and Hanzo&#39;s Dragonstrike are sometimes used for zoning or keeping enemies away from an area, so often no damage is done with their ults. In addition, Widowmaker&#39;s ultimate never does any damage which may explain why her dps isn&#39;t nearly as high as other hitscan heroes. However, it&#39;s important to take into account that Widowmaker is the most efficient at instakilling high value targets with a swift headshot, making her invaluable to certain team compositions. To investigate this topic further, DPS per hero per map was analyzed in Table 2.
 
 **Table 2. Hitscan + Hanzo Damage Capability per Map: Top 6**
 
-![](RackMultipart20210713-4-1y2hywv_html_51370934fcd90f57.png)
+![](https://cdn.discordapp.com/attachments/693943373387661432/864575692363530310/unknown.png)
 
 This table of maps brings to light some interesting details. For one, Lijiang Tower is shown to be the map with the highest DPS for both of the highest hitscan damage dealers, Ashe and Hanzo. In addition, it can be seen that King&#39;s Row is in all of the hitscan heroes&#39; top six maps. To further investigate how much damage each hitscan hero does on each map, a horizontal bar graph was developed in Graph 1.
 
 **Graph 1. Hitscan + Hanzo Damage Capability per Map**
 
-![](RackMultipart20210713-4-1y2hywv_html_3ce4fb929fc0ffaa.png)
+![](https://cdn.discordapp.com/attachments/693943373387661432/864577450822729818/unknown.png)
 
 Some information is clearer to see in the graph than in the table. For one, the graph shows that, although Ashe does more damage on average, Hanzo is better at certain maps including Busan, Horizon Lunar Colony, Junkertown, and Paris. Although Widowmaker is always the lowest, McCree is actually better than Hanzo on Watchpoint: Gibraltar.
 
