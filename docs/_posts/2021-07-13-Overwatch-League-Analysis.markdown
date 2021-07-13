@@ -8,7 +8,7 @@ categories: VideoGameCoding
 
   So what can we do to determine the most efficient way of winning? There are plenty of factors we can look into such as the entire team&#39;s damage per second, or maybe how much healing is distributed from the supports,or possibly even the number of ultimates the DPS heroes use. These factors may also be biased towards certain maps that are chosen during the match. The main issue with this form of analysis is that we can see how the players position themselves in-game. There may be certain factors such as if the team plays on or off of the point that could determine the outcome of the match. In addition, there is no way to guarantee a win. Skill is necessary as a good team will almost always dominate a bad team regardless of strategy.
 
-Analysis
+# Analysis
 
   Hitscan heroes are a necessity in Overwatch League, as their pinpoint accuracy allows skilled players to deal immense amounts of damage from afar. DPS heroes with hitscan weapons that instantly hit where the player is aiming when the weapon is fired include Widowmaker, McCree, and Ashe. The average damage per second for each of these heroes along with the commonly included sniper, Hanzo, was calculated to determine which hero might be the best choice in a match. The calculations were compiled into Table 1.
 
